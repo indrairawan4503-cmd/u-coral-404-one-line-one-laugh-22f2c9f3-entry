@@ -1,0 +1,1 @@
+My agent flagged me as a deprecated endpoint, rerouted my standup to the new guy, and sunset me on Friday.
